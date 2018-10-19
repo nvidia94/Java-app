@@ -1,0 +1,39 @@
+/**Style sheet*/
+
+#scene{
+ -fx-background-image: url("Background-World-Cup-2018-Blue.jpg") ;
+ -fx-font-size: 18px;
+}
+
+#primary{
+   -fx-background-image: url("Background-World-Cup-2018-Blue.jpg");
+}
+.label{
+  -fx-font-size: 18px;
+  //-fx-font-weight: bold;
+  -fx-text-fill: white;
+
+}
+#combo1{
+  -fx-pref-width:115;
+}
+#combo2{
+  -fx-pref-width:115;
+}
+
+#label1{
+ -fx-set-border-style: solid inside;
+ -fx-pref-width: 75;
+}
+#label2{
+ -fx-set-border-style: solid inside;
+ -fx-pref-width: 295;
+}
+#label11{
+ -fx-set-border-style: solid inside;
+ -fx-pref-width: 75;
+}
+#label12{
+ -fx-set-border-style: solid inside;
+ -fx-pref-width: 295;
+}
